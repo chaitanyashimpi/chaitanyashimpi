@@ -41,10 +41,10 @@
 
 </div>
 
-<div align="center">
+
 ## Contact with me
 
-
+<div align="center">
   
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/chaitanyashimpi)
 [<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/chaitanyashimpi)
