@@ -42,7 +42,7 @@
 </div>
 
 
-## Contact with me
+## Let's get connected
 
 <div align="center">
   
