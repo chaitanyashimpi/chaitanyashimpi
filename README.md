@@ -25,6 +25,7 @@
 <img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin:2px;"/>
 <img alt="WordPress" src="https://img.shields.io/badge/WordPress%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white" style="margin:2px;"/>
+<img alt="MySQL" src ="https://img.shields.io/badge/MySQL-%23181717.svg?&style=for-the-badge&logo=mysql&logoColor=white" style="margin:2px;"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" style="margin:2px;"/>
 <br/>
 </p>
