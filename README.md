@@ -47,7 +47,7 @@
 
 ## Projects for my Instagram Family 💻
 
-<a href="https://github.com/chaitanyashimpi/insta-projects">(https://github-readme-stats.vercel.app/api/pin/?username=chaitanyashimpi&repo=insta-projects&bg_color=333&title_color=f9b52e&text_color=fff)</a>
+![](https://github-readme-stats.vercel.app/api/pin/?username=chaitanyashimpi&repo=insta-projects&bg_color=333&title_color=f9b52e&text_color=fff)(https://github.com/chaitanyashimpi/insta-projects)
 
 ## Let's get connected
 
