@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning JS, Angular JS and React.JS.
 - 🔭 I’m currently Selected as a participant of GSSOC. 
 - 🏆 Open for contributing on Open Source.
-- - 💬 Ask me about Frontend Technologies
+- 💬 Ask me about Frontend Technologies
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to learn new skills.
 
