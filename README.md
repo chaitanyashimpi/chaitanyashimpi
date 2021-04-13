@@ -2,9 +2,11 @@
 
 ### About me
 
+- 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning JS, Angular JS and React.JS.
 - 🔭 I’m currently Selected as a participant of GSSOC. 
 - 🏆 Open for contributing on Open Source.
+- - 💬 Ask me about Frontend Technologies
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to learn new skills.
 
@@ -40,8 +42,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=chaitanyashimpi&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+![](https://activity-graph.herokuapp.com/graph?username=chaitanyashimpi&theme=github)
 </div>
 
+## Projects for my Instagram Family 💻
+
+![](https://github-readme-stats.vercel.app/api/pin/?username=chaitanyashimpi&repo=insta-projects&bg_color=333&title_color=f9b52e&text_color=fff)
 
 ## Let's get connected
 
