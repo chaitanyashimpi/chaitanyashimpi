@@ -46,7 +46,7 @@
 </div>
 
 ## Projects for my Instagram Family 💻
-<div align="center">
+<div align="left">
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=chaitanyashimpi&repo=insta-projects&bg_color=333&title_color=f9b52e&text_color=fff)](https://github.com/chaitanyashimpi/insta-projects)
 
