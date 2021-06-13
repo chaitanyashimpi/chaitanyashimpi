@@ -4,7 +4,6 @@
 
 ### About me
 
-- 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning JS, Angular JS and React.JS.
 - 🔭 I’m currently Selected as a participant of GSSOC. 
 - 🏆 Open for contributing on Open Source.
@@ -12,6 +11,9 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to learn new skills.
 
+Check out my [Portfolio site](https://chaitanyashimpi.netlify.app/)                            
+<br>
+Check out my [Business site](https://cratonik.com/)
 
 ### Tech Stack I am Familiar With:
 
