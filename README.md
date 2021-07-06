@@ -11,7 +11,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to learn new skills.
 
-Check out my [Portfolio site](https://chaitanyashimpi.netlify.app/)                            
+Check out my [Portfolio](https://chaitanyashimpi.netlify.app/)                            
 <br>
 Check out my [Business site](https://cratonik.com/)
 
