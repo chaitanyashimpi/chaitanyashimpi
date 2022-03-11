@@ -1,6 +1,6 @@
-## Hi there, [I am Chaitanya](http://chaitanyashimpi.netlify.app/) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## Hi there, [I am Chaitanya](http://chaitany.com/) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-[<img src="https://user-images.githubusercontent.com/36589853/115224549-9e367700-a12a-11eb-9e75-0ff68d0b0d52.png" alt="Chaitanya Shimpi Banner">](http://chaitanyashimpi.netlify.app/)
+[<img src="https://user-images.githubusercontent.com/36589853/115224549-9e367700-a12a-11eb-9e75-0ff68d0b0d52.png" alt="Chaitanya Shimpi Banner">](http://chaitany.com/)
 
 ### About me
 
@@ -11,7 +11,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to learn new skills.
 
-Check out my [Portfolio](https://chaitanyashimpi.netlify.app/)                            
+Check out my [Portfolio](http://chaitany.com/)                            
 <br>
 Check out my [Business site](https://cratonik.com/)
 
