@@ -67,5 +67,4 @@ Check out my [Business site](https://cratonik.com/)
 [<img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>](https://chaitanyashimpi.medium.com/)
 <br />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=chaitanyashimpi)
 </div>
