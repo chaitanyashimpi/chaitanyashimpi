@@ -1,4 +1,4 @@
-## Hi there, [I am Chaitanya](http://chaitany.com/) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## Hi there, [I am Chaitanya](http://chaitany.com/)
 
 [<img src="https://user-images.githubusercontent.com/36589853/115224549-9e367700-a12a-11eb-9e75-0ff68d0b0d52.png" alt="Chaitanya Shimpi Banner">](http://chaitany.com/)
 
