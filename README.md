@@ -4,7 +4,7 @@
 
 ### About me
 
-- 🌱 I’m currently learning JS, Angular JS and React.JS.
+- 🌱 I’m currently learning React.JS, DSA in JAVA and Cloud Computing.
 - 🔭 I’m currently working on some projects.
 - 🏆 Open for contributing on Open Source.
 - 💬 Ask me about Frontend Technologies
