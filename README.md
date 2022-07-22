@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on some projects.
 - 🏆 Open for contributing on Open Source.
 - 💬 Ask me about Frontend Technologies
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to learn new skills.
 
 Check out my [Portfolio](http://chaitany.com/)                            
