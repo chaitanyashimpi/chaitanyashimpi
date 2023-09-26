@@ -45,6 +45,7 @@ Check out my [Business site](https://cratonik.com/)
 
 ![](https://activity-graph.herokuapp.com/graph?username=chaitanyashimpi&theme=github)
 </div>
+<br/>
 
 ## Projects for my Instagram Family 💻
 <div align="center">
