@@ -41,7 +41,7 @@ Check out my [Business site](https://cratonik.com/)
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chaitanyashimpi&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chaitanyashimpi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://activity-graph.herokuapp.com/graph?username=chaitanyashimpi&theme=github)
 </div>
