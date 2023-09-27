@@ -35,25 +35,18 @@ Check out my [Business site](https://cratonik.com/)
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=chaitanyashimpi&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyashimpi&theme=dark" width="48%" >
+
+<!-- <img  src="https://github-readme-stats.vercel.app/api?username=chaitanyashimpi&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" > -->
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyashimpi&theme=radical" width="48%" align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitanyashimpi&&show_icons=true&theme=radical" alt="Chaitany's Github Stats" width="48%" align="right">
 <br>
 
-<div align="center">
-
-
-
-![](https://activity-graph.herokuapp.com/graph?username=chaitanyashimpi&theme=github)
-</div>
-<br/>
-<br/>
-<br/>
 
 ## Projects for my Instagram Family 💻
 <div align="center">
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=chaitanyashimpi&repo=insta-projects&bg_color=333&title_color=f9b52e&text_color=fff)](https://github.com/chaitanyashimpi/insta-projects) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![](https://github-readme-stats.vercel.app/api/pin/?username=chaitanyashimpi&repo=Python-Projects&bg_color=333&title_color=f9b52e&text_color=fff)](https://github.com/chaitanyashimpi/Python-Projects)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=chaitanyashimpi&repo=insta-projects&bg_color=141321&title_color=f9b52e&text_color=fff)](https://github.com/chaitanyashimpi/insta-projects) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![](https://github-readme-stats.vercel.app/api/pin/?username=chaitanyashimpi&repo=Python-Projects&bg_color=141321&title_color=f9b52e&text_color=fff)](https://github.com/chaitanyashimpi/Python-Projects)
 </div>
 
 ## Let's get connected
@@ -63,7 +56,6 @@ Check out my [Business site](https://cratonik.com/)
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/chaitanyashimpi)
 [<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/chaitanyashimpi)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](http://www.linkedin.com/in/chaitanyashimpi/)
-[<img alt="Discord" src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.gg/V3FmgSRDcY)
 [<img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>](https://chaitanyashimpi.medium.com/)
 <br />
 
