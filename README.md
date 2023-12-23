@@ -5,9 +5,9 @@
 ### About me
 
 - 🏆 Assistant Manager at Jio Platform Limited.
-- 🌱 I’m currently learning React.JS, DSA in JAVA and Cloud Computing.
+- 🌱 I’m currently learning React.JS, DSA in JAVA, and Cloud Computing.
 - 🔭 I’m currently working on some projects.
-- 🏆 Open for contributing on Open Source.
+- 🏆 Open for contributing to Open Source.
 - 💬 Ask me about Frontend Technologies
 - 🥅 2023 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to learn new skills.
