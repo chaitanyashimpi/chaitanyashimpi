@@ -1,7 +1,6 @@
 ## Hi there, [I am Chaitanya](http://chaitany.com/)
 
-
-![Black Minimal Business Personal Profile Linkedin Banner (2)](https://github.com/chaitanyashimpi/chaitanyashimpi/assets/36589853/1361242d-d0b7-46c1-bf0f-5b8e359548e6)
+![Black Minimal Business Personal Profile Linkedin Banner (3)](https://github.com/chaitanyashimpi/chaitanyashimpi/assets/36589853/20544e64-b2f9-4396-9acc-a6d4e59bd7e9)
 
 ### About me
 
