@@ -1,6 +1,7 @@
 ## Hi there, [I am Chaitanya](http://chaitany.com/)
 
-[<img src="https://user-images.githubusercontent.com/36589853/115224549-9e367700-a12a-11eb-9e75-0ff68d0b0d52.png" alt="Chaitanya Shimpi Banner">](http://chaitany.com/)
+
+![Black Minimal Business Personal Profile Linkedin Banner (2)](https://github.com/chaitanyashimpi/chaitanyashimpi/assets/36589853/1361242d-d0b7-46c1-bf0f-5b8e359548e6)
 
 ### About me
 
