@@ -1,6 +1,6 @@
 ## Hi there, [I am Chaitanya](http://chaitany.com/)
 
-![Your paragraph text (1)](https://github.com/user-attachments/assets/8c3b6ff1-5198-4c01-9ff0-d5474ef55482)
+![Cover Photo](https://github.com/user-attachments/assets/8c3b6ff1-5198-4c01-9ff0-d5474ef55482)
 
 ### About me
 
