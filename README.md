@@ -43,10 +43,10 @@ Check out my [Business site](https://cratonik.com/)
 <br>
 
 
-## Projects for my Instagram Family 💻
+## Mega Projects 💻
 <div align="center">
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=chaitanyashimpi&repo=insta-projects&bg_color=141321&title_color=f9b52e&text_color=fff)](https://github.com/chaitanyashimpi/insta-projects) 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=cratonik&repo=BugHive&bg_color=141321&title_color=f9b52e&text_color=fff)](https://github.com/cratonik/BugHive) 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=chaitanyashimpi&repo=Python-Projects&bg_color=141321&title_color=f9b52e&text_color=fff)](https://github.com/chaitanyashimpi/Python-Projects)
 </div>
 
