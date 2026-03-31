@@ -5,7 +5,7 @@
 ### About me
 
 - 🏆 Software Developer at Jio Platform Limited.
-- 🌱 I’m learning Spring Boot, & DSA in JAVA.
+- 🌱 I’m learning Python, Spring Boot, & DSA in JAVA.
 - 🔭 I’m currently working on some projects.
 - 🏆 Open for contributing to Open Source.
 - 💬 Ask me about Frontend Technologies
